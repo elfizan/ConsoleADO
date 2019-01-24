@@ -10,7 +10,7 @@ namespace Bootcamp.CRUD.Core
     public class BaseModel
     {
         [Key]
-        public int id { get; set; }
+        public int Id { get; set; }
 
         public DateTimeOffset CreateDate { get; set; }
         public DateTimeOffset UpdateDate { get; set; }

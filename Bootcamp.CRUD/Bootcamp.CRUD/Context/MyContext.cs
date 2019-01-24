@@ -8,10 +8,11 @@ using System.Threading.Tasks;
 
 namespace Bootcamp.CRUD.Context
 {
-   public class MyContext : DbContext
+    public class MyContext : DbContext
     {
         public MyContext() : base("bootcamp22") { }
-
+        
         public DbSet<Supplier> Suppliers { get; set; }
+        public DbSet<Item> Items { get; set; }
     }
 }
