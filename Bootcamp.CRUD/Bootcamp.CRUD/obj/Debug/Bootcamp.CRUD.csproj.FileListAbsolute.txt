@@ -22,5 +22,5 @@ E:\MII\Bootcamptortois\Git Hub extraflake\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD
 E:\MII\Bootcamptortois\Git Hub extraflake\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\EntityFramework.xml
 E:\MII\Bootcamptortois\Git Hub extraflake\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\bin\Debug\EntityFramework.SqlServer.xml
 E:\MII\Bootcamptortois\Git Hub extraflake\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.csprojResolveAssemblyReference.cache
-E:\MII\Bootcamptortois\Git Hub extraflake\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.Migrations.addVirtualSupplierIdItem.resources
+E:\MII\Bootcamptortois\Git Hub extraflake\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.Migrations.addTransactionsItems.resources
 E:\MII\Bootcamptortois\Git Hub extraflake\ConsoleADO\Bootcamp.CRUD\Bootcamp.CRUD\obj\Debug\Bootcamp.CRUD.csproj.GenerateResource.Cache

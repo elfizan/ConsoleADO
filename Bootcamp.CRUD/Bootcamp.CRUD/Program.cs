@@ -16,10 +16,14 @@ namespace Bootcamp.CRUD
         {
             SuppliersController callSupplier = new SuppliersController();
             ItemsController callItem = new ItemsController();
+            // Transaction callTransaction = new Transaction();
+            TransactionsController callTransaction = new TransactionsController();
+            
 
             Console.WriteLine("=========== Manage Data ============");
             Console.WriteLine("1. Item");
             Console.WriteLine("2. Supplier");
+            Console.WriteLine("3. Transaction");
             Console.WriteLine("====================================");
             Console.Write("Going to : ");
             int chance = Convert.ToInt32(Console.ReadLine());
@@ -31,6 +35,12 @@ namespace Bootcamp.CRUD
             else if (chance == 2)
             {
                 callSupplier.ManageSupplier();
+            }
+            else if(chance == 3)
+            {
+                
+                callTransaction.ManageTransaction();
+                
             }
             else
             {

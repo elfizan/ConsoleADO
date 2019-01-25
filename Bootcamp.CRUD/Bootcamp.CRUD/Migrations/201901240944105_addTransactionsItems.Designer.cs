@@ -7,13 +7,13 @@ namespace Bootcamp.CRUD.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.2.0-61023")]
-    public sealed partial class addVirtualSupplierIdItem : IMigrationMetadata
+    public sealed partial class addTransactionsItems : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(addVirtualSupplierIdItem));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(addTransactionsItems));
         
         string IMigrationMetadata.Id
         {
-            get { return "201901240304122_addVirtualSupplierIdItem"; }
+            get { return "201901240944105_addTransactionsItems"; }
         }
         
         string IMigrationMetadata.Source
